@@ -1171,7 +1171,7 @@ a h6:hover {
 .portfolio-box .portfolio-item {
 	background-color: var(--tj-theme-accent-2);
 	margin-bottom: 4%;
-	padding: 36px 36px 0 36px;
+	padding: 5px 5px 0 5px;
 	border-radius: 10px;
 	width: 48%;
 }
@@ -1374,7 +1374,7 @@ a h6:hover {
 	transform: rotate(180deg);
 }
 .popup_modal_img {
-	padding: 50px 40px 0 40px;
+	padding: 2px 2px 0 2px;
 	text-align: center;
 	max-height: 670px;
 	overflow: hidden;
