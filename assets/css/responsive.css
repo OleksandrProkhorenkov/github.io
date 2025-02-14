@@ -300,7 +300,7 @@
 		max-width: 670px;
 	}
 	.popup_modal_img {
-		padding: 40px 25px 0 25px;
+		padding: 2px 2px 0 2px;
 	}
 	.popup_modal_content {
 		padding-top: 40px;
@@ -323,7 +323,7 @@
 		padding-bottom: 60px;
 	}
 	.portfolio-box .portfolio-item {
-		padding: 10px 10px 0 10px;
+		padding: 5px 5px 0 5px;
 	}
 	.portfolio-box .content-box {
 		width: calc(100% - 30px);
